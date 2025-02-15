@@ -1,0 +1,3 @@
+doc1 Hadoop is a distributed computing framework used for processing big data. It enables scalable and efficient data storage and analysis.
+doc2 Hadoop is a widely used distributed computing system. It provides efficient big data processing and storage capabilities.
+doc3 Big data is crucial for modern analytics. Hadoop and other distributed systems help in large-scale data processing and storage.
